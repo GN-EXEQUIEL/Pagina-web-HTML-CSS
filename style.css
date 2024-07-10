@@ -1,0 +1,40 @@
+.titulo{
+    font-size: 70px;
+    color: black;
+}
+.foto{
+    width: 300px;
+    height: 350px;
+}
+
+body{
+    background-color: bisque;
+    
+}
+.epigrafe1{
+    font-size: 30px;
+   
+}
+#ep1{
+    background-color: aquamarine;
+}
+.epigrafe2{
+    font-size: 30px;
+}
+#ep2{
+background-color: rgb(96, 28, 28);
+}
+.epigrafe3{
+    font-size: 30px;
+}
+#ep3{
+    background-color: greenyellow;
+}
+.subtitulo{
+    font-size: 40px;
+}
+.fecha{
+    font-size: 20px;
+    background-color: blue ;
+    color: aliceblue;
+}
